@@ -1,0 +1,40 @@
+{
+  "axes": {
+    "X": {
+      "enabled": true,
+      "display_name": "X",
+      "stage_model": "",
+      "um_per_pulse": 0.1,
+      "invert_direction": false,
+      "min_um": -50000.0,
+      "max_um": 50000.0,
+      "default_speed_um_s": 100.0,
+      "jog_speed_um_s": 100.0,
+      "home_position_um": 0.0
+    },
+    "Y": {
+      "enabled": true,
+      "display_name": "Y",
+      "stage_model": "",
+      "um_per_pulse": 0.1,
+      "invert_direction": false,
+      "min_um": -50000.0,
+      "max_um": 50000.0,
+      "default_speed_um_s": 100.0,
+      "jog_speed_um_s": 100.0,
+      "home_position_um": 0.0
+    },
+    "Z": {
+      "enabled": true,
+      "display_name": "Z",
+      "stage_model": "",
+      "um_per_pulse": 0.1,
+      "invert_direction": false,
+      "min_um": -10000.0,
+      "max_um": 10000.0,
+      "default_speed_um_s": 50.0,
+      "jog_speed_um_s": 50.0,
+      "home_position_um": 0.0
+    }
+  }
+}
